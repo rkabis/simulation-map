@@ -7,7 +7,6 @@ const mapboxAttr =  process.env.REACT_APP_MAPBOX_ATTR
 const mapboxId = process.env.REACT_APP_MAPBOX_ID
 const mapboxAccess = process.env.REACT_APP_MAPBOX_ACCESS
 
-console.log(mapboxTiles)
 const componentStyle = {
 	zIndex: 0
 }
